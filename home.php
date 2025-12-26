@@ -7,6 +7,7 @@
 				<?php include "Date.php";?>
 			</td>
 			<td width="43" rowspan="2">&nbsp;</td>
+			<h1>ไม่บอกกกกกกกกก ตึงโป๊ะ</h1>
 		</tr>
 		<tr>
 			<td width="1007" bgcolor="#FFFFFF">
